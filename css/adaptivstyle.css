@@ -1,0 +1,687 @@
+@media screen and (max-width: 768px) {
+/* Blogs #1 */
+	.OURcontainer{
+		 padding-top: 50px;
+
+	}
+
+	.OURtext-main{
+		width: 90%;
+		padding-bottom: 62px;
+	}
+
+	.covertheader{
+		height: 80px;
+	}
+
+	.navig{
+		width: 97%;
+		height: 60px;
+		font-size: 14px;
+	}
+
+	.home{
+		height: 60px;
+	}
+
+	.portfolio{
+		height: 60px;
+	}
+
+	.aboutus{
+	height: 60px;
+	}
+
+	.contact{
+		height: 60px;
+	}
+
+	.OURmain{
+		font-size: 25px;
+	}
+
+	.lorem{
+		width: 220px;
+		padding-top: 0px;
+		font-size: 12px;
+	}
+	.buttonContact{
+		height: 50px;
+	}
+	.contactUs{
+		width: 90px;
+		font-size: 10px;
+		height: 30px;
+	}
+	.video1{
+		padding-left: 40px;
+		width: 360px;
+		height: 217px;
+	}
+	video{
+		box-shadow: 0 0 55px rgb(202,198,198);
+	}
+
+/* Blogs #2 */
+
+	.textmainDOYOU{
+		width: 90%;
+		padding-top: 55px;
+	}
+
+	.mainDoYou{
+		font-size: 25px;
+	}
+
+	.containerLorem2{
+		width: 220px;
+		padding-top: 0px;
+		font-size: 12px;
+	}
+
+	.buttonLearn{
+		height: 50px;
+	}
+
+	.learnMore{
+		width: 90px;
+		font-size: 10px;
+		height: 30px;
+	}
+
+	.services{
+		padding-left: 40px;
+	}
+
+	.logo-Managment{
+		padding-right: 20px;
+	}
+
+	.text-services{
+		padding-top: 15px;
+	}
+
+	.services-main{
+		font-size: 13px;
+	}
+
+	.animation{
+		padding-top: 10px;
+	}
+
+	.logo-Branding{
+		padding-top: 10px;
+	}
+
+	.logoManagment{
+		width: 13%;
+		height: 6.5%;
+	}
+
+	.logoBranding{
+		width: 14%;
+		height: 5%;
+	}
+
+	.logoUI{
+		width: 13%;
+		height: 6%;
+	}
+
+	.logoAnimation{
+		width:16%;
+		height: 5%;
+	}
+
+	.lorem-22{
+		padding-top: 10px;
+		font-size: 12px;
+	}
+
+	.line-hr{
+		padding-top: 30px;
+	}
+
+/* Blogs #3 */
+
+	.featurecontatiner{
+		padding-top: 55px;
+	}
+
+	.featuretextmain{
+		width: 90%
+	}
+
+	.mainFeature{
+		font-size: 25px;
+	}
+
+	.loremcontainer3{
+		padding-top: 15px;
+		font-size: 12px;
+	}
+
+	.hrfeature{
+		height: 2px;
+	}
+
+	.featureBut{
+		font-size: 14px;
+	}
+	
+	.featureNavigator{
+		width: 80%;
+       padding-left: 75px;
+	}
+
+	.featureblock2{
+		padding-top: 30px;
+	}
+	.block{
+		width: 204px;
+		height: 204px;
+		margin-bottom: 11px;
+		flex-wrap: wrap;
+	}
+	
+/* Blogs #4 */
+
+	.meet-text-main{
+		margin-left: 27%;
+	}
+
+	.meet-container{
+		padding-top:55px;
+	}
+
+	.mainMeet{
+		width: 80%
+		font-size: 35px;
+	}
+
+	.loremcontainer4{
+		font-size: 12px;
+	}
+
+	.Mainmark{
+		 margin-left: 12%;
+	}
+
+	.Waughmark{
+		margin-left: 20%;
+		font-size: 25px;
+	}
+
+	.loremmarktext{
+		font-size: 12px;
+	}
+
+	.facebookBlock{
+		width: 72%;
+  		padding-left: 15%;
+		font-size: 13px
+	}
+
+	.meettextblock2{
+		flex-wrap: wrap;
+	}
+
+	.Bigblock{
+		width: 68%;
+	}
+
+	.Waughmarkblock{
+		padding-top:20px;
+		padding-left: 0px;
+	}
+
+	.small{
+		width: 47.43%;
+	}
+
+
+/* Blogs #5 */
+
+	.containerblogs5{
+		margin-top:780px;
+		padding-top:80px;
+	}
+
+	.blogs5-text-main{
+		font-size: 25px;
+	}
+
+	.loremcontainer5{
+		font-size: 12px;
+	}
+
+	.subbutton{
+		width: 90px;
+   		font-size: 10px;
+    	height: 30px;
+	}
+
+/* Blogs #6 */
+.loremcontainer6{
+		font-size: 12px;
+	}
+
+	.nameemail{
+		height: 39px;
+	}
+
+	.name-but{
+		width: 32.4%;
+		height: 100%;
+		padding-left:33px;
+
+	}
+
+	.mail-but{
+		width: 32.4%;
+		height: 100%;
+		padding-left:33px;
+		
+	}
+
+	.message-but{
+		width: 88.9%;
+		height: 158px;
+		padding-left:33px;
+	}
+
+	.contactin{
+		margin-left: 30px;
+		margin-top:84px;
+	}
+}
+
+@media screen and (max-width: 480px) {
+	
+	.wrapper{
+		padding-left: 20px;
+	}
+
+/* Blogs #1 */
+		
+	.OURcontainer{
+		 padding-top: 30px;
+	}
+
+	.covertheader{
+		height: 70px;
+	}
+
+	.navig{
+		width: 97%;
+		height: 50px;
+		font-size: 10px;
+	}
+
+	.home{
+		font-size: 10px;
+		height: 50px;
+	}
+
+	.portfolio{
+		height: 50px;
+	}
+
+	.aboutus{
+	height: 50px;
+	}
+
+	.contact{
+		height: 50px;
+	}
+
+	.OURtext-main{
+
+		width: 90%;
+		padding-bottom: 25px;
+	}
+
+	.OURmain{
+		font-size: 15px;
+	}
+
+	.lorem{
+		width: 100px;
+		padding-top: 0px;
+		font-size: 7px;
+	}
+	.buttonContact{
+		height: 40px;
+	}
+	.contactUs{
+		width: 55px;
+		font-size: 7px;
+		height: 25px;
+	}
+	.video1{
+		padding-left: 0px;
+		width: 260px;
+		height: 157px;
+	}
+	iframe{
+		box-shadow: 0 0 60px rgb(202,198,198);
+	}
+
+/* Blogs #2 */
+	.textmainDOYOU{
+		width: 90%;
+		padding-top: 20px;
+	}
+	.mainDoYou{
+
+		font-size: 15px;
+	}
+	.containerLorem2{
+		width: 119px;
+		padding-top: 10px;
+		font-size: 7px;
+	}
+	.buttonLearn{
+		height: 40px;
+	}
+	.learnMore{
+		width: 57px;
+		font-size: 7px;
+		height: 25px;
+	}
+	.services{
+		padding-left: 4px;
+	}
+
+	.text-services{
+		padding-top: 0px;
+	}
+	.services-main{
+		font-size: 8px;
+	}
+	.animation{
+		padding-top: 0px;
+	}
+
+	.logo-Branding{
+		padding-top: 0px;
+	}
+
+	.logoManagment{
+		width: 10%;
+		height: 6.5%;
+	}
+
+	.logoBranding{
+		width: 11%;
+		height: 5%;
+	}
+
+	.logoUI{
+		width: 10%;
+		height: 6%;
+	}
+
+	.logoAnimation{
+		width:13%;
+		height: 5%;
+	}
+
+	.lorem-22{
+		padding-top: 5px;
+		font-size: 7px;
+	}
+
+	.line-hr{
+		padding-top: 10px;
+	}
+
+/* Blogs #3 */
+	.featurecontatiner{
+		padding-top: 0px;
+	}
+	
+	.featuretextmain{
+		width: 90%
+	}
+
+	.mainFeature{
+		padding-top: 20px;
+		font-size: 15px;
+	}
+
+	.loremcontainer3{
+		width: 60%;
+		padding-top: 10px;
+		font-size: 7px;
+		padding-bottom: 20px;
+	}
+
+	.hrfeature{
+		margin-top: 20px;
+		height: 2px;
+	}
+
+	.featureBut{
+		font-size: 7px;
+	}
+
+	.featureNavigator{
+		width: 85%;
+       padding-left: 25px;
+	}
+
+	.featureblock2{
+		padding-top: 20px;
+	}
+	.block{
+		flex-wrap: wrap;
+		width: 115px;
+    	height: 115px;
+		margin-bottom: 11px;
+	}
+	
+/* Blogs #4 */
+	.meet-container{
+		padding-top:20px;
+	}
+
+	.mainMeet{
+		width: 100%;
+		font-size: 15px;
+		margin-left: 10%;
+	}
+
+	.loremcontainer4{
+		padding-top:15px;
+		font-size: 7px;
+		width: 53%;
+	}
+	
+	.hrMeet{
+		margin-top: 15px;
+		margin-left: 35%;
+	}
+
+	.meettextblock2{
+		padding-top:15px;
+	}
+
+	.Bigblock{
+		width: 60%;
+    	height: 47%;
+	}
+
+	.Waughmarkblock{
+		width: 100%;
+	}
+
+	.Mainmark{
+		margin-left: 14%;
+	}
+
+	.Waughmark{
+		font-size: 13px;
+	}
+
+	.loremmarktext{
+		width: 80%;
+		font-size: 7px;
+		padding-top:23px;
+	}
+
+	.facebookBlock{
+		font-size: 8px;
+		padding-top:20px;
+	}
+
+	.meettextblock2{
+		flex-wrap: wrap;
+	}
+
+	.Bigblock{
+		width: 56%;
+	}
+
+	.smallBlock{
+		padding-top:20px;
+		flex-wrap: nowrap;
+	}
+
+	.Waughmarkblock{
+		padding-top:20px;
+		padding-left: 0px;
+		margin-left: -20%;
+	}
+
+	.small{
+		width: 22.13%;
+		height: 44%;
+	}
+
+	.small:hover .blockName{
+		font-size: 7px;
+	}
+
+/* Blogs #5 */
+	.containerblogs5{
+		margin-top:10px;
+		padding-top:40px;
+	}
+
+	.blogs5-text-main{
+		font-size: 15px;
+	}
+
+	.loremcontainer5{
+		padding-top:20px;
+		font-size: 7px;
+		padding-bottom: 32px;
+	}
+
+	.inputcontainer4{
+  	    padding-bottom: 70px;
+	}
+
+	input{
+		padding-left: 15px;
+		font-size: 10px;
+	}
+
+	.subbutton{
+		width: 55px;
+    	font-size: 7px;
+    	height: 25px;
+	}
+
+/* Blogs #6 */
+	
+	.blogs6-text-main{
+
+		margin-top:30px
+	}
+
+	.gettextblock1{
+	align-items: center;
+	}
+
+	.mainGet{
+		justify-content: center;
+		font-size: 15px;
+	}
+
+	.loremcontainer6{
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		padding-top:10px;
+		font-size: 7px;
+
+	}
+
+	.hr-blogs6{
+		
+	   	margin-top: 25px;
+	
+	}
+
+	.inputcontainer6{
+		padding-bottom: 35px;
+	}
+
+	.nameemail{
+		height: 28px;
+		padding-bottom: 26px;
+	}
+
+	.name-but{
+		width: 40.4%;
+		padding-left:5px;
+		font-size: 12px;
+
+
+	}
+
+	.mail-but{
+		width: 40.4%;
+		padding-left:5px;
+		font-size: 12px;
+		
+	}
+
+	.message-but{
+		width: 95%;
+		height: 108px;
+		padding-left:5px;
+		font-size: 12px;
+		padding-top:17px;
+	}
+
+	.sendmessage{
+	    font-size: 7px;
+   		height: 25px;
+   		margin-top:15px;
+	}
+
+	.contactin{
+		margin-left: 3px;
+		margin-top:54px;
+		font-size: 8px;
+		height: 116px;
+	}
+
+	.inner-footer{
+		margin-top: 55px;
+		height: 100px;
+	}
+	
+	.social{
+	font-size: 10px
+	}
+
+	.socialicon{
+	float: right;
+	margin-left: 5px;
+	}
+
+}
